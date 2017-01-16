@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 15th, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+Made a snowman using js.p5 
+Created an organization account on github for my local FCC group for future group projects.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I usually prefer to solve code and mathematical challenges and always avoided spending time learning about css and js drawings. But now that I tried out p5.js I can see some potential fun using it to draw and make some drawings interactive.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Also my local FCC group which me and a friend I met on the local FB group revived into a regular meetup is going spectacularly well. We decided to build a website for the group so everyone can contribute and practice their skills, as well as get a taste of collaborative coding and version control. In today's meeting we set up our git repo and collaboration tools and planned ahead.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** 
+[Snowman Drawing] https://github.com/Banhawy/JS-Drawings
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[Local FCC Group Organization] https://github.com/Northscript
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
