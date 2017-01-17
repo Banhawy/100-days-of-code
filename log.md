@@ -15,3 +15,14 @@ Also my local FCC group which me and a friend I met on the local FB group revive
 
 [Local FCC Group Organization] https://github.com/Northscript
 
+### Day 2: January 16th, 2017
+
+**Today's Progress**: 
+I was visited by family this week so I spent all day driving around and shopping in malls. I downloaded an educational app that teaches C++, and spent my time in stores revisiting the basics of C++ which I had not coded in for years. Did some arrays and string challenges on Hackerrank.com when I got home in C++, Javascript, and C#.
+
+**Thoughts:** I considered working on projects but I was mentally and physically drained. I find that revisiting languages I am not very proficient in and doing easy to medium challenges refreshes and adds to my knowledge without much effort, and is a good way to end the day. 
+
+I also plan to follow Hackerrank's 30 days of code challenges challenge.
+
+**Link to work:** 
+[Hackerrank Profile] https://www.hackerrank.com/Banhawy
