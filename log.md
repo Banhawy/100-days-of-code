@@ -26,3 +26,14 @@ I also plan to follow Hackerrank's 30 days of code challenges challenge.
 
 **Link to work:** 
 [Hackerrank Profile] https://www.hackerrank.com/Banhawy
+
+### Day 3: January 17th, 2017
+
+**Today's Progress**: 
+Completed the Data types challenge for C++ on Hackerrank. 
+Started the Wikipedia project on Free Code Camp.
+
+**Thoughts:** I am learning more and more about the string class in C++ and how to display values accurately on screen.
+
+**Link to work:** 
+[Hackerrank Profile] https://www.hackerrank.com/Banhawy
