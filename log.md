@@ -37,3 +37,13 @@ Started the Wikipedia project on Free Code Camp.
 
 **Link to work:** 
 [Hackerrank Profile] https://www.hackerrank.com/Banhawy
+
+### Day 4: January 18th, 2017
+
+**Today's Progress**: 
+Solved an intermediate FCC challenge in Javascript in 15 minutes.
+
+**Thoughts:** This is one of the long days at school. I am in college for about 13-14 hours for lectures. Thankfully, there are gaps in between in which I study and I decided to do an algorithm challenge on FCC because I knew I'd be too tired by the time I got home. Access to big whiteboard certainly hepled.
+
+**Link to work:** 
+[DNA Pairing Challenge] https://goo.gl/4n2Olk
