@@ -47,3 +47,16 @@ Solved an intermediate FCC challenge in Javascript in 15 minutes.
 
 **Link to work:** 
 [DNA Pairing Challenge] https://goo.gl/4n2Olk
+
+### Day 5: January 21th, 2017
+
+**Today's Progress**: 
+Started a JavaScript project that will create a webapp that solves linear systems of equations.
+
+**Thoughts:** This project involves some math and algebra. I am trying to implement the Row Reduction Echelon Form algorithm and embeded in the app. I found out that a white board helps a lot. 
+
+Also, it might look like I skipped 2 days but I actually practiced C++ on my phone outside all day during those 2 days
+
+**Link to work:** 
+[RREF function] https://github.com/Banhawy/Linear-Systems
+
