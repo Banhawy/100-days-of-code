@@ -48,7 +48,7 @@ Solved an intermediate FCC challenge in Javascript in 15 minutes.
 **Link to work:** 
 [DNA Pairing Challenge] https://goo.gl/4n2Olk
 
-### Day 5: January 21th, 2017
+### Day 5: January 21, 2017
 
 **Today's Progress**: 
 Started a JavaScript project that will create a webapp that solves linear systems of equations.
@@ -60,3 +60,13 @@ Also, it might look like I skipped 2 days but I actually practiced C++ on my pho
 **Link to work:** 
 [RREF function] https://github.com/Banhawy/Linear-Systems
 
+### Day 6: January 22, 2017
+
+**Today's Progress**: 
+Improved and fixed a bug in the Reduced Row Echelon Form algorithm I am writing for the linear systems solving webapp.
+Had the weekly meeting with fellow coders and aspiring webdevelopers and setup our development environment on each individual machine as well as did some group planning for phases of our group project.
+
+**Thoughts:** Even though I was very sick and had a cold, I powered through the day and got some work done.
+
+**Link to work:** 
+[RREF function] https://github.com/Banhawy/Linear-Systems
