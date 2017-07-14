@@ -70,3 +70,13 @@ Had the weekly meeting with fellow coders and aspiring webdevelopers and setup o
 
 **Link to work:** 
 [RREF function] https://github.com/Banhawy/Linear-Systems
+
+## Day 7: July 13, 2017
+
+**6 Months Progress**:
+I can't remember a single day in the past 6 months where I hadn't looked at code or wrote some. Granted I did not work on as many personal projects as I wanted but that's because I got a web developer job/internship and I started a computer science degree at the University of Minnesota. But I have learned a lot of useful concepts in software engineering and best practices and developer tools at work. Since it's summertime now and I have some free time on my hands now I will continue the 100 day challenge to log my progress.
+
+Today I designed a new portfolio layout and started coding three pages (homepage/CV/Portfolio). I intend to make it mobile first and adhere to responive web design best practices.
+
+**Link to work:** 
+[Online Resume] https://github.com/Banhawy/online-resume
