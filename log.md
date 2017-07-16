@@ -71,7 +71,7 @@ Had the weekly meeting with fellow coders and aspiring webdevelopers and setup o
 **Link to work:** 
 [RREF function] https://github.com/Banhawy/Linear-Systems
 
-## Day 7: July 13, 2017
+## Day 7: July 14, 2017
 
 **6 Months Progress**:
 I can't remember a single day in the past 6 months where I hadn't looked at code or wrote some. Granted I did not work on as many personal projects as I wanted but that's because I got a web developer job/internship and I started a computer science degree at the University of Minnesota. But I have learned a lot of useful concepts in software engineering and best practices and developer tools at work. Since it's summertime now and I have some free time on my hands now I will continue the 100 day challenge to log my progress.
@@ -80,3 +80,14 @@ Today I designed a new portfolio layout and started coding three pages (homepage
 
 **Link to work:** 
 [Online Resume] https://github.com/Banhawy/online-resume
+
+## Day 8: July 15th
+
+**Today's progress**:
+After a lot of experimenting and optimizing my gulp and SASS worklows, I created and uploaded a gist of the gulpfile I use to compile SASS and reload browser on changes. 
+
+**Thoughts:**
+I kept working on my online resume. It's been a challenge hosting it on github pages but I've managed to implement responsive design best practices and laid out a solid foundation for my personal website.
+
+**Link to work:**
+[Gulpfile gist] https://gist.github.com/Banhawy/11d0e5bde8f5ab82826fe619c9ff1933
