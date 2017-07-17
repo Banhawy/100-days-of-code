@@ -102,3 +102,13 @@ Managed to get github pages up and running.
 
 **Link to work:**
 [Online resume] https://banhawy.github.io/online-resume/resume/resume.html
+
+## Day 9: July 17th
+**Today's Progress:**
+Created a front/landing page for my website and animated it with jQuery.
+
+**Thoughts:**
+Got to use SASS mixins to create a resuable CSS card layout. I am starting to get better with SASS and I can feel its power now.
+
+**Link to Work:**
+[About me page] https://banhawy.github.io/cv/index.html
