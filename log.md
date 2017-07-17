@@ -91,3 +91,14 @@ I kept working on my online resume. It's been a challenge hosting it on github p
 
 **Link to work:**
 [Gulpfile gist] https://gist.github.com/Banhawy/11d0e5bde8f5ab82826fe619c9ff1933
+
+## Day 8: July 16th
+
+**Today's progress**:
+Made good progress on my resume page of my website.
+
+**Thoughts:**
+Managed to get github pages up and running.
+
+**Link to work:**
+[Online resume] https://banhawy.github.io/online-resume/resume/resume.html
