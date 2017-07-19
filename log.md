@@ -112,3 +112,20 @@ Got to use SASS mixins to create a resuable CSS card layout. I am starting to ge
 
 **Link to Work:**
 [About me page] https://banhawy.github.io/cv/index.html
+
+## Day 11: July 18th
+**Today's Progress:**
+I started reading ReactJS's documentation and played around with the library and JSX syntax. I can see the potential in the frame work. Also started writing a chrome extension which I intent to finish tomorrow.
+
+**Thoughts:**
+I'm starting to like React. I plan to do a version on my website in React at some point after making a React application I have in mind
+
+## Day 12: July 19th
+**Today's Progress:**
+I finished my chrome extension and published it to the google web store after extensive testing. It's the first actual product I put on any store before.
+
+**Thoughts:**
+I played with chrome extensions in the past which is why I was able to skim through the documentation and write the code faster this time. I plan to spend the rest of the day reading about and experimenting with ReactJS.
+**Link to Work:**
+[Extension Repo] https://github.com/Banhawy/Make-Drumpf-Great-Again
+[Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
