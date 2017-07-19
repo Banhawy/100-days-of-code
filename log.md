@@ -128,4 +128,5 @@ I finished my chrome extension and published it to the google web store after ex
 I played with chrome extensions in the past which is why I was able to skim through the documentation and write the code faster this time. I plan to spend the rest of the day reading about and experimenting with ReactJS.
 **Link to Work:**
 [Extension Repo] https://github.com/Banhawy/Make-Drumpf-Great-Again
+
 [Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
