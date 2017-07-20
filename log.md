@@ -130,3 +130,14 @@ I played with chrome extensions in the past which is why I was able to skim thro
 [Extension Repo] https://github.com/Banhawy/Make-Drumpf-Great-Again
 
 [Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
+
+## Day 12: July 19th
+**Today's Progress:**
+Finished builing my first React bulletin board application (after experimenting with a few simple pages to get the syntax right) and deployed it to github pages.
+
+**Thoughts:**
+I wrote a blog post on Medium on how to declare React components and trying to explain it on there helped me gain a better understanding of React and learn its syntax faster.
+
+**Link to Work:**
+[Bulletin Board] (https://banhawy.github.io/Bulletin-Board/)
+[Medium Article] (https://medium.com/@the.benhawy/3-ways-to-create-react-components-8b3620e4ea0)
