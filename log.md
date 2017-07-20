@@ -131,7 +131,7 @@ I played with chrome extensions in the past which is why I was able to skim thro
 
 [Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
 
-## Day 12: July 19th
+## Day 13: July 20th
 **Today's Progress:**
 Finished builing my first React bulletin board application (after experimenting with a few simple pages to get the syntax right) and deployed it to github pages.
 
