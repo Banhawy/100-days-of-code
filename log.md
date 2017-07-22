@@ -141,3 +141,14 @@ I wrote a blog post on Medium on how to declare React components and trying to e
 **Link to Work:**
 [Bulletin Board] (https://banhawy.github.io/Bulletin-Board/)
 [Medium Article] (https://medium.com/@the.benhawy/3-ways-to-create-react-components-8b3620e4ea0)
+
+## Day 14: July 21
+**Today's Progress:**
+Made some changes to my chrome extension to use more modular functions. Added new laughing Obama feature which replaces pictures of trump with Obama. Published to the google web store!
+
+**Thoughts:**
+Honestly this project is so much fun! I am learning a lot about the structure of the DOM, its elements, and how to traverse them. Only issue with the new featture is I have to rely on human inputted src value that describes pictures of trump accurately. In the future it would be better to rely on a deep learning model to detet Trump's face instead. Good opportunity to learn deep learning!
+**Link to Work:**
+[Extension Repo] https://github.com/Banhawy/Make-Drumpf-Great-Again
+
+[Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
