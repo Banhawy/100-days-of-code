@@ -152,3 +152,22 @@ Honestly this project is so much fun! I am learning a lot about the structure of
 [Extension Repo] https://github.com/Banhawy/Make-Drumpf-Great-Again
 
 [Extension Store Page] https://chrome.google.com/webstore/detail/make-donald-drumpf-again/eppfpfolmpkpclmcpgplmfllbnokngbb?hl=en-US
+
+# Day 15: July 22
+**Today's Progress:**
+Wrote and published a new chrome extension The Obamanator is a javascript extension that changes ALL images and icons into a random obama picture/gif. This was a quick fun project that I made at the request of a freind.
+
+**Link to Work:**
+[Extension Repo](https://github.com/Banhawy/Obamanator)
+
+[Extension Store Page](https://chrome.google.com/webstore/detail/obamanator/mlhalllpogboobfpoklhidaknakajgfh?hl=en-US)
+
+# Day 16: July 23
+**Today's Progress:**
+Used python class and data structure (list) to add projectsto my portfolio page which I animated and tested thorougly for responsive design. Also worked on old projects to fix and optomize code whenever possible. 
+
+**Thoughts**:
+I came accross an old Quote Generator project that I had used a json file to store quotes and authors info hosted on my personal dropbox, and I had set up an ajax GET call to it. For some reason dropbox stopped giving access for such calls and I used a github gist to story my json and fetch from there and that worked. That got me thinking about RESTful APIs and now I am experimenting with node.js mongoDB and Express so that I can build an API to serve quotes.
+
+**Link to Work:**
+[Portfolio Page](https://banhawy.github.io/cv/portfolio.html)
