@@ -184,4 +184,4 @@ I've decided to do the wikipedia viwer app from Free Code Camp in React which is
 I have spent ALL night last night into the morning trying to figure out how to call APIs asynchrously and ran into a brick wall because of a CORS issue while developing localy. Today after much readings and research I managed to find a proxy server service that allowed me to call an API that didn't allow CORS. I experimented first with github API in react on codepen and started my wikipedia viewer.
 
 **Link to Work:**
-[React Github API](https://codepen.io/Banhawy/pen/prvzJm
+[React Github API](https://codepen.io/Banhawy/pen/prvzJm)
