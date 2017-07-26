@@ -171,3 +171,17 @@ I came accross an old Quote Generator project that I had used a json file to sto
 
 **Link to Work:**
 [Portfolio Page](https://banhawy.github.io/cv/portfolio.html)
+
+# Day 17: July 24
+**Today's Progress:**
+I had a long day and was exhausted by the time I got home late at night. I managed to battle the urge of just laying in bed and knocking out, and got to experiment a with React on codepen
+
+**Thoughts:**
+I've decided to do the wikipedia viwer app from Free Code Camp in React which is why I am laboring over react examples and documentations so much these days. Its reusable components just seem to be the perfect candidate for the job.
+
+# Day 18: July 25
+**Today's Progress:**
+I have spent ALL night last night into the morning trying to figure out how to call APIs asynchrously and ran into a brick wall because of a CORS issue while developing localy. Today after much readings and research I managed to find a proxy server service that allowed me to call an API that didn't allow CORS. I experimented first with github API in react on codepen and started my wikipedia viewer.
+
+**Link to Work:**
+[React Github API](https://codepen.io/Banhawy/pen/prvzJm
