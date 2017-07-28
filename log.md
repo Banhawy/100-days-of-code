@@ -185,3 +185,13 @@ I have spent ALL night last night into the morning trying to figure out how to c
 
 **Link to Work:**
 [React Github API](https://codepen.io/Banhawy/pen/prvzJm)
+
+# Day 19: July 27
+**Today's Progress:**
+I labored over the wikipedia viewer project I am coding in React. I've had to research a lot of React documentation and get help from the FCC and stackoverflow community which lead me to make successful API calls and optimize my app components. I've come a long way and React is slowly becoming intuative to me.
+
+**Link to Work:**
+[React Wiki API](https://codepen.io/Banhawy/pen/eEmQBW)
+
+
+
