@@ -193,5 +193,15 @@ I labored over the wikipedia viewer project I am coding in React. I've had to re
 **Link to Work:**
 [React Wiki API](https://codepen.io/Banhawy/pen/eEmQBW)
 
+# Day 20: July 28
+**Today's Progress:**
+I started a free JSX course on Udemy and immediatly used what I learned to solve 3 intermediate algorithm challenges on freeCodeCamp.
+
+# Day 21: July29:
+**Today's Progress:**
+I worked all day on my wikipedia viewer project trying to link the form and the listing views together in React. I finally managed to that without any errors and the project's required functionalities are done. Need to make it look pretty.
+
+**Link to Work:**
+[Wiki Viewer](https://codepen.io/Banhawy/full/eEmQBW/)
 
 
