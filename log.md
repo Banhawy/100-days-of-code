@@ -205,3 +205,12 @@ I worked all day on my wikipedia viewer project trying to link the form and the 
 [Wiki Viewer](https://codepen.io/Banhawy/full/eEmQBW/)
 
 
+# Day 22: July31:
+**Today's Progress:**
+Spent the last two days learning hw to import and use external react libraries and managed to finally put the finishing touches on the Wikipedia Viewer project and deployed it to github after cross-browser testing.
+
+**Thoughts:**
+I am so excited! This is officially the first independant react project I built without any help or following video tutorials, besides those on react acrchitecture in general. It took me a week of constant struggle with so many trial and error and reading documentations. But it was worth it and I cam out of having a really good grasp of at least the basics of react and JSX. I plan to do FCC Twitchtv api next in react and maybe look into redux.
+
+**Link to Work:**
+[Wiki Viewer](https://banhawy.github.io/Wikipedia-Viewer/)
